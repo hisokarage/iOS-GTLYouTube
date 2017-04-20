@@ -158,6 +158,44 @@ Pod::Spec.new do |s|
       Services/YouTube/Generated/GTLYouTubeVideoStatus.m
       Services/YouTube/Generated/GTLYouTubeVideoTopicDetails.m
       Services/YouTube/Generated/GTLYouTubeConstants.m
+	Services/YouTube/Generated/GTLYouTubeCdnSettings.h
+	Services/YouTube/Generated/GTLYouTubeCdnSettings.m
+	Services/YouTube/Generated/GTLYouTubeIngestionInfo.h
+	Services/YouTube/Generated/GTLYouTubeIngestionInfo.m
+	Services/YouTube/Generated/GTLYouTubeLiveBroadcast.h
+	Services/YouTube/Generated/GTLYouTubeLiveBroadcast.m
+	Services/YouTube/Generated/GTLYouTubeLiveBroadcastContentDetails.h
+	Services/YouTube/Generated/GTLYouTubeLiveBroadcastContentDetails.m
+	Services/YouTube/Generated/GTLYouTubeLiveBroadcastSnippet.h
+	Services/YouTube/Generated/GTLYouTubeLiveBroadcastSnippet.m
+	Services/YouTube/Generated/GTLYouTubeLiveBroadcastStatistics.h
+	Services/YouTube/Generated/GTLYouTubeLiveBroadcastStatistics.m
+	Services/YouTube/Generated/GTLYouTubeLiveBroadcastStatus.h
+	Services/YouTube/Generated/GTLYouTubeLiveBroadcastStatus.m
+	Services/YouTube/Generated/GTLYouTubeLiveBroadcastTopic.h
+	Services/YouTube/Generated/GTLYouTubeLiveBroadcastTopic.m
+	Services/YouTube/Generated/GTLYouTubeLiveBroadcastTopicDetails.h
+	Services/YouTube/Generated/GTLYouTubeLiveBroadcastTopicDetails.m
+	Services/YouTube/Generated/GTLYouTubeLiveBroadcastTopicSnippet.h
+	Services/YouTube/Generated/GTLYouTubeLiveBroadcastTopicSnippet.m
+	Services/YouTube/Generated/GTLYouTubeLiveStream.h
+	Services/YouTube/Generated/GTLYouTubeLiveStream.m
+	Services/YouTube/Generated/GTLYouTubeLiveStreamConfigurationIssue.h
+	Services/YouTube/Generated/GTLYouTubeLiveStreamConfigurationIssue.m
+	Services/YouTube/Generated/GTLYouTubeLiveStreamContentDetails.h
+	Services/YouTube/Generated/GTLYouTubeLiveStreamContentDetails.m
+	Services/YouTube/Generated/GTLYouTubeLiveStreamHealthStatus.h
+	Services/YouTube/Generated/GTLYouTubeLiveStreamHealthStatus.m
+	Services/YouTube/Generated/GTLYouTubeLiveStreamSnippet.h
+	Services/YouTube/Generated/GTLYouTubeLiveStreamSnippet.m
+	Services/YouTube/Generated/GTLYouTubeLiveStreamStatus.h
+	Services/YouTube/Generated/GTLYouTubeLiveStreamStatus.m
+	Services/YouTube/Generated/GTLYouTubeMonitorStreamInfo.h
+	Services/YouTube/Generated/GTLYouTubeMonitorStreamInfo.m
+	Services/YouTube/Generated/GTLYouTubeThumbnailDetails.h
+	Services/YouTube/Generated/GTLYouTubeThumbnailDetails.m
+	Services/YouTube/Generated/PSGTLQueryYoutube.h
+	Services/YouTube/Generated/PSGTLQueryYoutube.m
       GTLDefines.h
       HTTPFetcher/GTMGatherInputStream.h
       HTTPFetcher/GTMGatherInputStream.m
