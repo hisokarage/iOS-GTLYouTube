@@ -33,18 +33,11 @@ Pod::Spec.new do |s|
     Utilities/GTLTargetNamespace.h
     Objects/GTLUploadParameters.h
     Utilities/GTLUtilities.h
-    HTTPFetcher/GTMGatherInputStream.h
     HTTPFetcher/GTMHTTPFetcher.h
     HTTPFetcher/GTMHTTPFetcherLogging.h
     HTTPFetcher/GTMHTTPFetcherService.h
     HTTPFetcher/GTMHTTPFetchHistory.h
     HTTPFetcher/GTMHTTPUploadFetcher.h
-    HTTPFetcher/GTMMIMEDocument.h
-    OAuth2/GTMOAuth2Authentication.h
-    OAuth2/GTMOAuth2SignIn.h
-    OAuth2/Touch/GTMOAuth2ViewControllerTouch.h
-    OAuth2/Mac/GTMOAuth2WindowController.h
-    HTTPFetcher/GTMReadMonitorInputStream.h
   ]
 
   # s.source_files = FileList['./{Services/YouTube/Generated/{*.{h,m},GTLYouTubeConstants.m},GTLDefines.h,HTTPFetcher/GTM{GatherInputStream,HTTPFetchHistory,HTTPFetcher,HTTPFetcherLogging,HTTPFetcherService,HTTPUploadFetcher,MIMEDocument,ReadMonitorInputStream}.{h,m},OAuth2/{GTMOAuth2Authentication.{h,m},GTMOAuth2SignIn.{h,m},Touch/GTMOAuth2ViewControllerTouch.{h,m}},Objects/GTL{BatchQuery,BatchResult,DateTime,ErrorObject,Object,Query,RuntimeCommon,Service,UploadParameters}.{h,m},Utilities/GTL{{Base64,Framework,JSONParser,Utilities}.{h,m},TargetNamespace.h}}']
@@ -197,8 +190,6 @@ Pod::Spec.new do |s|
 	Services/YouTube/Generated/PSGTLQueryYoutube.h
 	Services/YouTube/Generated/PSGTLQueryYoutube.m
       GTLDefines.h
-      HTTPFetcher/GTMGatherInputStream.h
-      HTTPFetcher/GTMGatherInputStream.m
       HTTPFetcher/GTMHTTPFetchHistory.h
       HTTPFetcher/GTMHTTPFetchHistory.m
       HTTPFetcher/GTMHTTPFetcher.h
@@ -209,16 +200,6 @@ Pod::Spec.new do |s|
       HTTPFetcher/GTMHTTPFetcherService.m
       HTTPFetcher/GTMHTTPUploadFetcher.h
       HTTPFetcher/GTMHTTPUploadFetcher.m
-      HTTPFetcher/GTMMIMEDocument.h
-      HTTPFetcher/GTMMIMEDocument.m
-      HTTPFetcher/GTMReadMonitorInputStream.h
-      HTTPFetcher/GTMReadMonitorInputStream.m
-      OAuth2/GTMOAuth2Authentication.h
-      OAuth2/GTMOAuth2Authentication.m
-      OAuth2/GTMOAuth2SignIn.h
-      OAuth2/GTMOAuth2SignIn.m
-      OAuth2/Touch/GTMOAuth2ViewControllerTouch.h
-      OAuth2/Touch/GTMOAuth2ViewControllerTouch.m
       Objects/GTLBatchQuery.h
       Objects/GTLBatchQuery.m
       Objects/GTLBatchResult.h
